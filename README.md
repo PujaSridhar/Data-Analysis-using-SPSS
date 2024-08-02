@@ -7,7 +7,7 @@ Estimating countries' life expectancy by considering their GDP per capita, adult
 
 1. **Open SPSS** and load your dataset.
 2. **Correlation Scores**:
-    - Go to 'Analyze' > 'Correlate' > 'Bivariate...'.
+    - Go to `Analyze` > `Correlate` > `Bivariate...`.
     - Select the variables you want to correlate (e.g., `Adult Mortality` and `Life Expectancy`).
     - Ensure that the `Pearson` checkbox is selected.
     - Click `OK`.
